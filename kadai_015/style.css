@@ -14,7 +14,7 @@ html {
 h1 {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 2rem; 
-    letter-spacing: 1.2rem; 
+    letter-spacing: 1.2em; 
     text-shadow: 2px 2px 4px #888888;
     border-bottom: 3px solid rgb(115, 115, 114);
     text-align: center;
