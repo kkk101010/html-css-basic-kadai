@@ -23,7 +23,7 @@ text-align: center;
 #middle-child01 {
     width: 200px;
     height: 200px;
-    background-color: #87ceed;
+    background-color: #87ceeb;
     position: absolute;
     top: 100px;
     left: 100px;
@@ -32,7 +32,7 @@ text-align: center;
 #middle-child02 {
     width: 200px;
     height: 200px;
-    background-color: #87ceed;
+    background-color: #87ceeb;
     position: absolute;
     top: 300px;
     left: 300px;
@@ -41,7 +41,7 @@ text-align: center;
 #middle-child03 {
     width: 200px;
     height: 200px;
-    background-color: #87ceed;
+    background-color: #87ceeb;
     position: absolute;
     top: 500px;
     left: 500px;
@@ -57,14 +57,13 @@ text-align: center;
 #bottom-child01 {
     width: 400px;
     height: 100px;
-    position: absolute;
     background-color: #e5dcf0;
 }
 
 #bottom-child02 {
     width: 400px;
     height: 100px;
-    position: absolute;
+    position: relative;
     top: 100px;
     left: 200px;
     background-color: #e5dcf0;
@@ -73,7 +72,7 @@ text-align: center;
 #bottom-child03 {
     width: 400px;
     height: 100px;
-    position: absolute;
+    position: relative;
     left: 400px;
     top: 200px;
     background-color: #e5dcf0;
